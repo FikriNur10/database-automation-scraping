@@ -1,7 +1,4 @@
-===============================================
 📄 DATABASE TABLE MAPPER - README
-===============================================
-
 🧠 DESCRIPTION
 -----------------------------------------------
 This Python script automatically maps database table names to their respective database Excel files.
